@@ -1,24 +1,19 @@
 # yesCode-Forkify
 
-Forkify is an interactive web app that interacts with the [Forkify API](https://forkify-api.herokuapp.com/) to fetch and display recipe food data
+The Forkify Recipe app is an interactive web app that interacts with the [Forkify API](https://forkify-api.herokuapp.com/) to fetch and display recipe food data. The app allows users to search for recipes, view the recipe along with the cook time and also increase or decrease the amount of servings they need. 
 
 ## Installation
-Forkify requires Node.js to run its dependencies.
 
 Install the dependencies and devDependencies and start the server.
 
-$ npm install
-Scripts
-Forkify utilizes Webpack to compile its files
-
 Run webpack in development mode:
-`$ npm run dev`
+> `npm run dev`
 
 Run webpack in production mode:
-`$ npm run build`
+> `npm run build`
 
-Run webpack-dev-server:
-`$ npm run watch`
+Run:
+> `npm start`
 
-# Special thanks to Jonas Schmedtmann and his Udemy classes for showing & guiding me throughout this entire project.
+### Special thanks to Jonas Schmedtmann and his Udemy classes for showing & guiding me throughout this entire project.
 
