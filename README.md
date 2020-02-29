@@ -15,5 +15,5 @@ Run webpack in production mode:
 Run:
 > `npm start`
 
-### Special thanks to Jonas Schmedtmann and his Udemy classes for showing & guiding me throughout this entire project.
+#### Special thanks to Jonas Schmedtmann and his Udemy classes for showing & guiding me throughout this entire project.
 
