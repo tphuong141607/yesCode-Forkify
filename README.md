@@ -1,6 +1,5 @@
 # yesCode-Forkify
 
-Javascript tutorial project from Jonas Schmedtmann's Udemy Course.
 Forkify is an interactive web app that interacts with the [Forkify API](https://forkify-api.herokuapp.com/) to fetch and display recipe food data
 
 ## Installation
